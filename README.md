@@ -1,2 +1,8 @@
-# QuickTake
-QuickTake is a digital platform that delivers the latest news articles and stories from various sources, covering topics like politics, technology, sports, and entertainment. It provides real-time updates, personalized content, and features like categories, offline access, and push notifications to keep users informed and engaged.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
